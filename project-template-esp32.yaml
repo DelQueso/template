@@ -33,11 +33,7 @@ dashboard_import:
 
 
 wifi:
-  #use_address: pyl-test.private.unibe.ch
-  networks:
-    - ssid: !secret wifi_ssid
-      password: !secret wifi_password
-  
+
   # Enable fallback hotspot (captive portal) in case wifi connection fails
   ap:
     password: "12345678"
