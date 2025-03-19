@@ -10,7 +10,7 @@ esphome:
   # configuration and updates.
   project:
     name: delqueso.test-device
-    version: "1.6"
+    version: "2.0"
 
 
 esp32:
